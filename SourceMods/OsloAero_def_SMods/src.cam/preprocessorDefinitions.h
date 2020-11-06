@@ -1,0 +1,4 @@
+#define AEROCOM
+#define AEROFFL
+#undef COLTST4INTCONS
+#undef AEROCOM_INSITU
