@@ -1,5 +1,7 @@
 # Source code and setup information for OsloAeroSec and model description paper
 
+[![DOI](https://zenodo.org/badge/310658016.svg)](https://zenodo.org/badge/latestdoi/310658016)
+
 The model code provided is modifications to the CAM6-Nor, part of the
 NorESM2 release: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3905091.svg)](https://doi.org/10.5281/zenodo.3905091)
 
